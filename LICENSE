@@ -1,0 +1,65 @@
+GT Coach™ Beta License Agreement
+Version 0.1 · July 2025
+
+IMPORTANT — READ CAREFULLY.  By downloading, installing, or using the
+accompanying software (“Software”) you agree to the terms below.
+
+1. GRANT OF LICENSE  
+   Subject to compliance with this Agreement, GT Coach. (“Licensor”)
+   grants you a personal, non-exclusive, non-transferable, revocable
+   licence to install and run one copy of the Software solely for the
+   purpose of testing and evaluating GT Coach during its public-beta period.
+
+2. RESTRICTIONS  
+   You may **NOT** (a) reproduce, distribute, rent, lease, sublicense or
+   otherwise make the Software available to any third party; (b) modify,
+   adapt, translate, reverse-engineer, de-compile or disassemble the
+   Software except to the limited extent expressly permitted by
+   applicable law; (c) use the Software for any commercial purpose or
+   revenue-generating activity; (d) remove, alter or obscure proprietary
+   notices.
+
+3. OPEN-SOURCE COMPONENTS  
+   The Software includes third-party libraries licensed under OSI-approved
+   licences such as MIT and BSD-3-Clause.  Those components remain
+   © their respective owners and are listed, together with their licence
+   texts, in **THIRD_PARTY_NOTICES.txt**.  Your use of each component is
+   governed solely by its original licence.
+
+4. FEEDBACK  
+   You grant Licensor a perpetual, irrevocable, royalty-free right to
+   use, modify and incorporate any feedback you provide.
+
+5. UPDATES  
+   The Software may automatically download and install updates from the
+   public GitHub Releases feed.  Such updates are governed by this
+   Agreement unless accompanied by a different licence.
+
+6. TERM & TERMINATION  
+   This Agreement terminates automatically if you breach any term.  Upon
+   termination you must destroy all copies of the Software.
+
+7. DISCLAIMER OF WARRANTY  
+   **THE SOFTWARE IS PROVIDED “AS IS” AND WITHOUT WARRANTY OF ANY KIND,**
+   whether express, implied or statutory, including but not limited to
+   warranties of merchantability, fitness for a particular purpose and
+   non-infringement.  You bear all risk of using it.
+
+8. LIMITATION OF LIABILITY  
+   To the maximum extent permitted by law, Licensor shall not be liable
+   for any indirect, special, incidental or consequential damages arising
+   out of or related to the Software, even if advised of the possibility
+   of such damages.  Licensor’s total liability shall in no event exceed
+   USD 100.
+
+9. GOVERNING LAW  
+   This Agreement is governed by the laws of England and Wales, and you
+   consent to exclusive jurisdiction and venue in the courts of London,
+   UK.
+
+10. ENTIRE AGREEMENT  
+    This Agreement constitutes the complete and exclusive statement of
+    the agreement between you and Licensor and supersedes all prior
+    proposals or communications.
+
+© 2025 GT Coach.  All rights reserved.
